@@ -2,8 +2,8 @@
 using System.Collections.ObjectModel;
 using System.ComponentModel;
 using System.Linq;
+using CommunityToolkit.Mvvm.ComponentModel;
 using Microsoft.Extensions.Logging;
-using Microsoft.Toolkit.Mvvm.ComponentModel;
 using ProjectK.Extensions.Logging;
 
 namespace ProjectK.ToolKit.ViewModels;
